@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "sudoku",
+                "projectName": "sudoku",
+                "workingDirectory": "c:\\Users\\reidk\\Documents\\sudoku\\sudoku",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "sudoku",
+                "projectName": "sudoku",
+                "workingDirectory": "c:\\Users\\reidk\\Documents\\sudoku\\sudoku",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
